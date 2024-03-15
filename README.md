@@ -18,10 +18,8 @@ git clone https://github.com/JulioCesarLB/fiap-checkpoint1
 
 ## Execução
 
-
-##### Docker
-
-######Execução da imagem 
+#### Docker
+###### Execução da imagem pelo docker hub
 ```
 docker run -p 8080:8080 -e PROFILE=prd juliocesarlb/fiap-checkpoint1
 docker run -p 8080:8080 -e PROFILE=dev juliocesarlb/fiap-checkpoint1
