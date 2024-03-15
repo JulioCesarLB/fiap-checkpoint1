@@ -35,5 +35,4 @@ docker run -p 8080:8080 -e PROFILE=stg juliocesarlb/fiap-checkpoint1
 
 ## Contatos
 
-- Desenvolvedor 1 - desenvolvedor1@email.com
-- Desenvolvedor 2 - desenvolvedor2@email.com
+- JulioCesarLB - julio.lifeintech@gmail.com
