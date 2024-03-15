@@ -21,10 +21,6 @@ git clone https://github.com/JulioCesarLB/fiap-checkpoint1
 
 ##### Docker
 
-######Criação de imagem 
-```
-docker build -t fiap-checkpoint1 .
-```
 ######Execução da imagem 
 ```
 docker run -p 8080:8080 -e PROFILE=prd juliocesarlb/fiap-checkpoint1
